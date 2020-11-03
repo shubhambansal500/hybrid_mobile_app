@@ -1,0 +1,7 @@
+{
+  "name": "SecondIonicSample",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
